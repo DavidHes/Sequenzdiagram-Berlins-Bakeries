@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-30T11:38:59.719Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" etag="yGr75YiCuvhB2vRD1zjR" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-30T11:47:07.442Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" etag="pDhm2DLhCok9EIuZLaxl" version="24.3.1" type="github" pages="2">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="1434" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="819" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -402,6 +402,86 @@
             <mxPoint x="1078" y="805" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="rOoV6gD8RyLumzf98rZi-26" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="715" y="800" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rOoV6gD8RyLumzf98rZi-27" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="715" y="830" as="sourcePoint" />
+            <mxPoint x="845" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rOoV6gD8RyLumzf98rZi-28" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.saccosystem.com/public/imgCat3/big/127-570717010-prodotti-da-forno.jpg;" vertex="1" parent="1">
+          <mxGeometry x="755" y="800" width="54" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rOoV6gD8RyLumzf98rZi-29" value="Bild von Bäckerei" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="732.5" y="800" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rOoV6gD8RyLumzf98rZi-30" value="3,00&lt;b style=&quot;color: rgb(32, 33, 34); font-family: sans-serif; font-size: 7px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;€&lt;/b&gt;&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="801" y="838" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rOoV6gD8RyLumzf98rZi-31" value="Name" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="718" y="828" width="26" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="rOoV6gD8RyLumzf98rZi-32" value="4,3 Sterne" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="718" y="845" width="46" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="rOoV6gD8RyLumzf98rZi-33" value="Abholen 08:00 - 10:00" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="718" y="837" width="87" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="rOoV6gD8RyLumzf98rZi-34" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="715" y="868" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rOoV6gD8RyLumzf98rZi-35" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="715" y="898" as="sourcePoint" />
+            <mxPoint x="845" y="898" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rOoV6gD8RyLumzf98rZi-36" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.saccosystem.com/public/imgCat3/big/127-570717010-prodotti-da-forno.jpg;" vertex="1" parent="1">
+          <mxGeometry x="755" y="868" width="54" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rOoV6gD8RyLumzf98rZi-37" value="Bild von Bäckerei" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="732.5" y="868" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rOoV6gD8RyLumzf98rZi-38" value="3,00&lt;b style=&quot;color: rgb(32, 33, 34); font-family: sans-serif; font-size: 7px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;€&lt;/b&gt;&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="801" y="906" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rOoV6gD8RyLumzf98rZi-39" value="Name" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="718" y="896" width="26" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="rOoV6gD8RyLumzf98rZi-40" value="4,3 Sterne" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="718" y="913" width="46" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="rOoV6gD8RyLumzf98rZi-41" value="Abholen 08:00 - 10:00" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="718" y="905" width="87" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="rOoV6gD8RyLumzf98rZi-51" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="928" width="130" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="rOoV6gD8RyLumzf98rZi-59" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="958" width="130" height="3" as="geometry" />
+        </mxCell>
+        <mxCell id="rOoV6gD8RyLumzf98rZi-52" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="958" as="sourcePoint" />
+            <mxPoint x="570" y="958" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rOoV6gD8RyLumzf98rZi-53" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.saccosystem.com/public/imgCat3/big/127-570717010-prodotti-da-forno.jpg;" vertex="1" parent="1">
+          <mxGeometry x="480" y="928" width="54" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rOoV6gD8RyLumzf98rZi-54" value="Bild von Bäckerei" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="457.5" y="928" width="95" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="u2fCA50r__ScM1Mxrwpj" name="Seite-2">
+    <mxGraphModel dx="1434" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
